@@ -19,7 +19,7 @@ Transformer trois fichiers Excel mis en forme comme des rapports (titres, totaux
 | `Evolution_nationalite_PF-2025.xlsx` | Arrivées par nationalité | 2019, 2023, 2024, 2025 |
 | `Tourisme-PF-2025.xlsx` | Arrivées par mode de transport et point d'entrée | 2019, 2023, 2024, 2025 |
 
-**Source :** _à compléter (organisme émetteur et lien de téléchargement)_.
+**Source :** _à compléter (organisme émetteur et lien de téléchargement)_.**Source :** ministère du Tourisme, de l'Artisanat et de l'Économie sociale et solidaire (Maroc), rubrique [Chiffres clés](https://mtaess.gov.ma/fr/chiffres-cles/). Fichiers téléchargés en 2026.
 
 ## Pipeline de données
 
